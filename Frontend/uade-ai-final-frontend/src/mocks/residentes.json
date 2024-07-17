@@ -1,0 +1,18 @@
+[
+    {
+        "id" : 1,
+        "nombre" : "juan",
+        "apellido" : "perez",
+        "dni" : 123456,
+        "direccion" : "Juan Man 123",
+        "nroDepartamento" : 1
+    },
+    {
+        "id" : 2,
+        "nombre" : "ricardo",
+        "apellido" : "arjona",
+        "dni" : 78910,
+        "direccion" : "Albarracin 223",
+        "nroDepartamento" : 2
+    }
+]
